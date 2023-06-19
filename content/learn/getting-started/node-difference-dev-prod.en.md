@@ -22,7 +22,7 @@ in the shell, but it's better to put it in your shell configuration file (e.g. `
 You can also apply the environment variable by prepending it to your application initialization command:
 
 ```bash
-NODE_ENV=production node app.js
+NODE_ENV=production nodes app.js
 ```
 
 This environment variable is a convention that is widely used in external libraries as well.
